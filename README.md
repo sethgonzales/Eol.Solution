@@ -45,12 +45,14 @@
 ### 💻 Description
 
 [Epicodus Online (EOL)](epicodus-online.azurewebsites.net) is an AIM-inspired message service that allows users to communicate real-time in a public chat room, or one-on-one in a private conversation with another user. 
+<img src="Eol/wwwroot/img/user-journey.png" alt="EOL chatroom.">
+<img src="Eol/wwwroot/img/visual-map.png" alt="EOL chatroom.">
 
-<img src="Eol/wwwroot/img/eol-chat.png" alt="EOL chatroom.">
 
 To be granted access to the chat functionality of the web application, a user must first register an account with the application's authentication service. In fact, upon visiting the website for the first time, a user will be greeted by a login form:
 
 <img src="Eol/wwwroot/img/login-d.png" alt="EOL account login view.">
+<img src="Eol/wwwroot/img/eol-chat.png" alt="EOL chatroom.">
 
 
 ### 🐛 Known Bugs
